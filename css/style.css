@@ -1,0 +1,18 @@
+.common_bg{background-color: #9Fc5F8;margin-top: 15px;}
+.header_height{min-height: 100px;}
+
+.item_one{background-color: #CFE2FB;}
+.item_two{background-color: #6FA8DC;margin-top: 15px;height: 150px;}
+.i2_padding_right_disable{padding-right: 0px;}
+
+.brand,.global_nav,.tools{min-height: 70px;margin-top: 15px;margin-bottom: 15px;}
+
+.hero_height{min-height: 150px;}
+
+.hero_feature,.call_to_action{min-height: 100px;margin-top: 25px;margin-bottom: 25px;}
+
+.article_height{min-height: 500px;}
+.article_feature,.article_listing{min-height: 430px;margin-top: 50px;margin-bottom: 20px;}
+.sidebar_feature{padding-left: 10px;padding-right: 10px;padding-top: 1px;}
+.sidebar_content{min-height: 430px;margin-top: 50px;margin-bottom: 30px;}
+.footer_height{margin-top: 0px;min-height: 45px;margin-bottom: 25px;}
